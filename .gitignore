@@ -1,7 +1,10 @@
-*/config/development
-*/logs/log-*.php
+/config/development
+/logs/log-*.php
 /logs/traffic.html/*
-*/logs/!index.html
+/BBDD/*
+/logs/!index.html
+logs/*
+application/config/database.php
 */cache/*
 */cache/!index.html
 */cache/!.htaccess
